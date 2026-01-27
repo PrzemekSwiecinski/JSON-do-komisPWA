@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "marka": "BMW",
+    "model": "E90",
+    "rocznik": "2015",
+    "przebieg": { "ile": 280000, "czy_cofany": true },
+    "silnik": { "moc_km": 150, "pojemnosc": 2.0, "rodzaj_paliwa": "Benzyna" },
+    "cena": 34000,
+    "zdjecieUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5manQ2NTQxM3RndjItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.NJ0Qb0D6vIbYS7iOpDqSEbQp29c7G5DJeslCU0KWi2g/image;s=3840x0;q=100"
+  },
+  {
+    "id": 2,
+    "marka": "Toyota",
+    "model": "Yaris",
+    "rocznik": "2020",
+    "przebieg": { "ile": 80000, "czy_cofany": false },
+    "silnik": { "moc_km": 100, "pojemnosc": 1.5, "rodzaj_paliwa": "Hybryda" },
+    "cena": 60000,
+    "zdjecieUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNxM3FnbHh5bnJhdy1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.wu5CJfMrX50xeRtv033dwV2RtPoiL9PcersI4Vk4I0Y/image;s=3840x0;q=100"
+  },
+  {
+    "id": 3,
+    "marka": "Opel",
+    "model": "Astra",
+    "rocznik": "2018",
+    "przebieg": { "ile": 45000, "czy_cofany": false },
+    "silnik": { "moc_km": 130, "pojemnosc": 1.6, "rodzaj_paliwa": "Benzyna" },
+    "cena": 48000,
+    "zdjecieUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImR0dG9ibG9mOHVtbzItT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.vYC5FCY5WKFy_4GxW2hsQona2Z4emdgUH6gtQfIaxzE/image;s=3840x0;q=100"
+  },
+  {
+    "id": 4,
+    "marka": "Seat",
+    "model": "Leon",
+    "rocznik": "2015",
+    "przebieg": { "ile": 140000, "czy_cofany": false },
+    "silnik": { "moc_km": 125, "pojemnosc": 1.4, "rodzaj_paliwa": "Benzyna" },
+    "cena": 30000,
+    "zdjecieUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc4NTFkODNqdmxleC1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.GfGkcHzeEg2hhErtFA5DacsxKxQSatUEyN484Wd8_oo/image;s=3840x0;q=100"
+  },
+  {
+    "id": 5,
+    "marka": "Toyota",
+    "model": "Auris",
+    "rocznik": "2024",
+    "przebieg": { "ile": 10000, "czy_cofany": false },
+    "silnik": { "moc_km": 130, "pojemnosc": 1.6, "rodzaj_paliwa": "Hybryda" },
+    "cena": 150000,
+    "zdjecieUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxlZWM3cWs0azZvaDMtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.9da01K8SyojZmruyczPFjLQNeqpvUBre-YqlTlSf0b0/image;s=3840x0;q=100"
+  },
+  {
+    "id": 6,
+    "marka": "Citroen",
+    "model": "C2",
+    "rocznik": "2008",
+    "przebieg": { "ile": 180000, "czy_cofany": true },
+    "silnik": { "moc_km": 90, "pojemnosc": 1.2, "rodzaj_paliwa": "Diesel" },
+    "cena": 7000,
+    "zdjecieUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImR2cmZiMGlzZ2IyMjEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.jSeasMhUyiS3Jf0xXwmUPakasE4Vsl8hbPfBjA-JJBk/image;s=3840x0;q=100"
+  },
+  {
+    "id": 7,
+    "marka": "Peugeot",
+    "model": "308",
+    "rocznik": "2013",
+    "przebieg": { "ile": 280000, "czy_cofany": false },
+    "silnik": { "moc_km": 140, "pojemnosc": 1.6, "rodzaj_paliwa": "Benzyna" },
+    "cena": 27000,
+    "zdjecieUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhndW95NXM3dG85ZS1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zaz17mR0ElXWQr1pDckjKnnRLYkOCqSoVwr9l4zTVdo/image;s=3840x0;q=100"
+  },
+  {
+    "id": 8,
+    "marka": "Dacia",
+    "model": "Sandero",
+    "rocznik": "2019",
+    "przebieg": { "ile": 100000, "czy_cofany": false },
+    "silnik": { "moc_km": 110, "pojemnosc": 1.5, "rodzaj_paliwa": "Diesel" },
+    "cena": 26000,
+    "zdjecieUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImpscGNuczF5b3Y3ay1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.pRBSedxfSEJ3xr7YmUJ18Pz-KurfwnUC-FZQamLA34E/image;s=3840x0;q=100"
+  },
+  {
+    "id": 9,
+    "marka": "Volkswagen",
+    "model": "Polo",
+    "rocznik": "2015",
+    "przebieg": { "ile": 120000, "czy_cofany": false },
+    "silnik": { "moc_km": 100, "pojemnosc": 1.2, "rodzaj_paliwa": "Benzyna" },
+    "cena": 29000,
+    "zdjecieUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InpoMXVxNjF1bzdtai1PVE9NT1RPUEwiLCJ3IjpbeyJmbiI6IndnNGducXA2eTFmLU9UT01PVE9QTCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FTphPvrL61iNtC3exNSCxWDFIuRu_hexWl9L9ExVmEc/image;s=3840x0;q=100"
+  },
+  {
+    "id": 10,
+    "marka": "Skoda",
+    "model": "Octavia",
+    "rocznik": "2006",
+    "przebieg": { "ile": 250000, "czy_cofany": false },
+    "silnik": { "moc_km": 150, "pojemnosc": 2.0, "rodzaj_paliwa": "Diesel" },
+    "cena": 10000,
+    "zdjecieUrl": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJxNHZlYzBidHZtZzEtT1RPTU9UT1BMIiwidyI6W3siZm4iOiJ3ZzRnbnFwNnkxZi1PVE9NT1RPUEwiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.0IeGcDEfY1Lf96z5XaWxVKqLzgyS3nNanxiNUnnX5O0/image;s=3840x0;q=100"
+  }
+]
